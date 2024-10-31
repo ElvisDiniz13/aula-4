@@ -33,7 +33,7 @@ Aqui estão as instruções para instalar o Visual Studio Code (VSCode) em difer
 1. A forma mais simples de instalar o Visual Studio Code em distribuições Debian/Ubuntu é baixar e instalar o pacote .deb (64 bits)
 [Debian ou Ubunto](https://code.visualstudio.com/download). Caso utilize outra distribuição, [neste link você encontra a documentação oficial com as explicações e passo a passo da instalação](https://code.visualstudio.com/docs/setup/linux).
 
-##Minhas anotações:</br>
+## Minhas anotações:</br>
 clear = limpa o shell do docker</br>
 cat desafios.txt = visualiza o arquivo</br>
 touch arq.txt = cria arquivo</br>
