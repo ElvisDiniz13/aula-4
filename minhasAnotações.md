@@ -69,3 +69,5 @@ python manage.py runserver 0.0.0.0:8000 (127.0.0.1) se for windows
 
 
 python manage.py startapp produto= cria um app (módulo do projeto)
+
+docker hub = site com imagens prontas do Docker
